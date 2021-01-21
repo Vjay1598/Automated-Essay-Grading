@@ -4,7 +4,7 @@
 Used the dataset obtained by the William and Flora Hewlett Foundation, which was made publicly available by their 2012 Kaggle competition. https://www.kaggle.com/c/asap-aes/data
 
 ## Algorithms and techniques used
-Linear Regression model with 5-fold cross validation
+Linear Regression model with 5-fold cross validation\n
 Quadratic Weighted Kappa score as evaluation metric
 Forward Feature Selection
 Word2Vec Model
